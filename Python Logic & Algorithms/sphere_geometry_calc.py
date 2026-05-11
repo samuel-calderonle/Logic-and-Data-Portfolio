@@ -4,8 +4,6 @@
 
 from math import*
 
-pi = 3.14
-
 def main():
 
     # Displays context
